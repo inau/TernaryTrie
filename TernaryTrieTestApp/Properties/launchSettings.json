@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TernaryTrieTestApp": {
+      "commandName": "Project",
+      "hotReloadEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}
